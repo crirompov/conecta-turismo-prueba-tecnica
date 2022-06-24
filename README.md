@@ -1,1 +1,5 @@
 # conecta-turismo-prueba-tecnica
+
+## Token para las pruebas: 
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb2RlIjoxNSwibmFtZSI6IlRlc3QiLCJkZXNjcmlwdGlvbiI6IkRlc2NyaXB0aW9uIiwiZGF0ZSI6IjIwMjItMDYtMDVUMTA6MDA6MDAifQ.KVqAA0oo1ruHErXwZSGipVXOWkI52RGzYlgZZjeBx4A
